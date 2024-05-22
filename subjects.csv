@@ -1,4 +1,4 @@
-Subject,Type,No.of Hrs,Combined,Faculties
+Subject,Type,No.of Hrs,Combined Class,Faculties
 C1,Lec,3,FALSE,"S1, S2"
 C2,Lec,4,FALSE,"S1,S3"
 C3,Lec,3,FALSE,"S3, S4"
