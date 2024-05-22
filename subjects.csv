@@ -1,0 +1,9 @@
+Subject,Type,No.of Hrs,Combined,Faculties
+C1,Lec,3,FALSE,"S1, S2"
+C2,Lec,4,FALSE,"S1,S3"
+C3,Lec,3,FALSE,"S3, S4"
+C4,Lec,3,FALSE,"S5, S6"
+C5,Lec,3,FALSE,"S2,S4"
+L1,Lab,4,FALSE,"S4,S6"
+L2,Lab,2,FALSE,"S5,S3"
+L3,Lab,4,FALSE,"S1,S6"
